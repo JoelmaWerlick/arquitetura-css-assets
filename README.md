@@ -24,3 +24,17 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
 * utilizar seletores CSS mais simples;
 * organizar a estruturar os arquivos css do projeto;
 * Metodologia Atomic Design.
+
+![99d73dd3-1471-4e85-86f7-c25a7cb6e04c](https://user-images.githubusercontent.com/100633937/167722240-e024334e-3a4f-4275-831b-17d032aabef4.jpeg)
+
+* Um padrão para nomear as classes de CSS;
+* Conhecemos a metodologia BEM.
+
+  Geralmente, pensar em nomes para nossas classes pode levantar perguntas do tipo:
+
+  Como nomear nossas classes?
+  Qual padrão utilizar?
+  Como separar palavras compostas?
+  entre outras…
+  Para resolver esse problema, estudamos a metodologia BEM, seguindo o princípio de bloco, elemento e modificador.
+  
