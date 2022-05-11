@@ -58,5 +58,8 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
 
 ![a7fed130-a8d0-4bbe-84c8-cf530431ba9e](https://user-images.githubusercontent.com/100633937/167876725-9d84e89b-d7f4-4aa8-9890-d2c62b3fdb2f.jpeg)
 
+* Tornar um site responsivo;
+* Como configurar a adaptação do site a diferentes tamanhos de tela.
+
 
   
