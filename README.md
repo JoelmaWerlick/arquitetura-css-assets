@@ -38,3 +38,9 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
   entre outras…
   Para resolver esse problema, estudamos a metodologia BEM, seguindo o princípio de bloco, elemento e modificador.
   
+  ![79edd39b-4882-42b4-8fd2-af6be3f5c98a](https://user-images.githubusercontent.com/100633937/167815825-bf5451b5-4b4f-4af3-9fcf-13e391934eb1.jpeg)
+  
+* Organização e estrutura de arquivos .css;
+* Separação de responsabilidades;
+* a criar e manter arquivos menores.
+  
