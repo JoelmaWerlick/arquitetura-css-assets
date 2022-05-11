@@ -43,4 +43,16 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
 * Organização e estrutura de arquivos .css;
 * Separação de responsabilidades;
 * a criar e manter arquivos menores.
+
+
+![a7fed130-a8d0-4bbe-84c8-cf530431ba9e](https://user-images.githubusercontent.com/100633937/167875986-cb49d852-5b0a-40c8-b6d0-66eb53148d6f.jpeg)
+
+* Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+
+    Algumas vezes, podemos ter dúvidas sobre o que deve estar em CSS e o que deve estar em HTML. Talvez, a mais comum seja sobre imagens: devemos   referenciá-las em CSS ou diretamente no HTML?
+
+  Um arquivo CSS é responsável por estilização e o HTML é responsável por informação. Ou seja, no primeiro definimos "como" e no segundo "o que" será visualizado.
+
+* Boas práticas com importação de imagens;
+* A manter as estilizações nos arquivos de estilo.
   
