@@ -45,7 +45,7 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
 * a criar e manter arquivos menores.
 
 
-![a7fed130-a8d0-4bbe-84c8-cf530431ba9e](https://user-images.githubusercontent.com/100633937/167875986-cb49d852-5b0a-40c8-b6d0-66eb53148d6f.jpeg)
+![25219c5d-ce51-4c03-97d5-2feebc96028d](https://user-images.githubusercontent.com/100633937/167876890-fdfc0748-61db-46eb-94a4-ea9760fc1869.jpeg)
 
 * Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
 
@@ -55,4 +55,8 @@ Protótipo do site: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bo
 
 * Boas práticas com importação de imagens;
 * A manter as estilizações nos arquivos de estilo.
+
+![a7fed130-a8d0-4bbe-84c8-cf530431ba9e](https://user-images.githubusercontent.com/100633937/167876725-9d84e89b-d7f4-4aa8-9890-d2c62b3fdb2f.jpeg)
+
+
   
